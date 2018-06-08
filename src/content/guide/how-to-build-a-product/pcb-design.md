@@ -86,6 +86,7 @@ Before you manufacture thousands of units, it's best to start with just a handfu
 
 **Popular PCB manufacturers:**
 
+- [PCBWay](https://www.pcbway.com/)
 - [Advanced Circuits](http://www.4pcb.com/)
 - [Seeed Studio Fusion PCB](https://www.seeedstudio.com/service/)
 - [OSH Park](https://oshpark.com/)
@@ -95,6 +96,7 @@ If you would like introductions to high-volume overseas PCB manufacturers, pleas
 
 **Popular low volume PCB assembly (PCBA) solutions:**
 
+- [PCBWay](https://www.pcbway.com/pcb-assembly.html)
 - [Tempo Automation](http://tempoautomation.com/)
 - [Seeed Studio PCB Fusion](https://www.seeedstudio.com/service/)
 
